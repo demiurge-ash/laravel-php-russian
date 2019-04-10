@@ -1,6 +1,12 @@
 Статьи о Laravel и PHP на Демиарте
 ====
 
+<p align="center">
+    <img src="https://avatars3.githubusercontent.com/u/48979244?v=3&s=200">
+</p>
+
+---
+
 + [20 тайных сокровищ Laravel](https://demiart.ru/forum/journal.php?user=1&comm=447483)
 + [10 скрытых фишек Laravel Eloquent](https://demiart.ru/forum/journal.php?user=1&comm=447513)
 + [Трансформируем переменные Laravel в Javascript](https://demiart.ru/forum/journal.php?user=1&comm=447589)

@@ -12,6 +12,7 @@
 + [Простая Мультитенантность в Laravel через Trait](https://laravel.demiart.ru/prostaya-multitenantnost-v-laravel-cherez-trait/)
 + [Laravel и UUID](https://laravel.demiart.ru/laravel-uuid/)
 + [Laravel и ULID](https://laravel.demiart.ru/laravel-i-ulid/)
++ [Делаем сайт на Laravel на нескольких языках](https://laravel.demiart.ru/delaem-sajt-na-laravel-na-neskolkih-yazykah/)
 
 ## Eloquent
 + [10 скрытых фишек Laravel Eloquent](https://laravel.demiart.ru/10-skrytyh-fishek-laravel-eloquent/)

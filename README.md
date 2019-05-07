@@ -13,6 +13,8 @@
 + [Laravel и UUID](https://laravel.demiart.ru/laravel-uuid/)
 + [Laravel и ULID](https://laravel.demiart.ru/laravel-i-ulid/)
 + [Делаем сайт на Laravel на нескольких языках](https://laravel.demiart.ru/delaem-sajt-na-laravel-na-neskolkih-yazykah/)
++ [Laravel — Создаём свои собственные функции](https://laravel.demiart.ru/laravel-sozdayom-svoi-sobstvennye-funktsii/)
++ [Почтовые уведомления в Laravel: Настраиваем шаблоны](https://laravel.demiart.ru/pochtovye-uvedomleniya-v-laravel-nastraivaem-shablony/)
 
 ## Eloquent
 + [10 скрытых фишек Laravel Eloquent](https://laravel.demiart.ru/10-skrytyh-fishek-laravel-eloquent/)

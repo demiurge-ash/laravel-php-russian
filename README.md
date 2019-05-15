@@ -18,13 +18,13 @@
 + [Исключения Laravel: ловим, обрабатываем и создаем собственные](https://laravel.demiart.ru/isklyucheniya-laravel-lovim-obrabatyvaem-i-sozdaem-sobstvennye/)
 + [Команды Artisan Make с параметрами](https://laravel.demiart.ru/komandy-artisan-make-s-parametrami/)
 + [Laravel API 404 ответ: Возвращаем JSON вместо страницы с ошибкой](https://laravel.demiart.ru/laravel-api-404-otvet-vozvrashhaem-json-vmesto-stranitsy-s-oshibkoj/)
-+ [Laravel и использование поля JSON в MySQL] (https://laravel.demiart.ru/laravel-mysql-json/)
++ [Laravel и использование поля JSON в MySQL](https://laravel.demiart.ru/laravel-mysql-json/)
 
 ## Eloquent
 + [10 скрытых фишек Laravel Eloquent](https://laravel.demiart.ru/10-skrytyh-fishek-laravel-eloquent/)
 + [20 хитростей при работе с Laravel Eloquent](https://laravel.demiart.ru/20-hitrostej-pri-rabote-s-laravel-eloquent/)
 + [Eloquent и Blade: повышение производительности](https://laravel.demiart.ru/eloquent-i-blade-sovety-po-povysheniyu-proizvoditelnosti/)
-+ [Laravel: Одна таблица для всех моделей] (https://laravel.demiart.ru/laravel-odna-tablitsa-dlya-vseh-modelej/)
++ [Laravel: Одна таблица для всех моделей](https://laravel.demiart.ru/laravel-odna-tablitsa-dlya-vseh-modelej/)
 
 ## Blade
 + [Создаём свою собственную Blade команду](https://laravel.demiart.ru/sozdayom-svoyu-sobstvennuyu-blade-komandu-na-primere-br2nl-v-laravel/)

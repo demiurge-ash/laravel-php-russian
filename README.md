@@ -19,6 +19,8 @@
 + [Команды Artisan Make с параметрами](https://laravel.demiart.ru/komandy-artisan-make-s-parametrami/)
 + [Laravel API 404 ответ: Возвращаем JSON вместо страницы с ошибкой](https://laravel.demiart.ru/laravel-api-404-otvet-vozvrashhaem-json-vmesto-stranitsy-s-oshibkoj/)
 + [Laravel и использование поля JSON в MySQL](https://laravel.demiart.ru/laravel-mysql-json/)
++ [Настройка регистрации в Laravel](https://laravel.demiart.ru/laravel-customize-registration/)
++ [Новый трейт Tappable в Laravel](https://laravel.demiart.ru/trait-tappable-laravel/)
 
 ## Eloquent
 + [10 скрытых фишек Laravel Eloquent](https://laravel.demiart.ru/10-skrytyh-fishek-laravel-eloquent/)
@@ -33,3 +35,7 @@
 ## Routes
 + [Laravel. Фильтры маршрутов с регулярками](https://laravel.demiart.ru/laravel-filtry-marshrutov-s-regulyarnymi-vyrazheniyami/)
 + [Резервный маршрут в Laravel](https://laravel.demiart.ru/rezervnyj-marshrut-v-laravel/)
+
+## Производительность
++ [Оптимизация производительности Laravel](https://laravel.demiart.ru/performance-optimization-laravel/)
++ [Кэширование ответов в Laravel](https://laravel.demiart.ru/caching-response-laravel/)

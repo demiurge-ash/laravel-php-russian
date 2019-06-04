@@ -21,12 +21,26 @@
 + [Laravel и использование поля JSON в MySQL](https://laravel.demiart.ru/laravel-mysql-json/)
 + [Настройка регистрации в Laravel](https://laravel.demiart.ru/laravel-customize-registration/)
 + [Новый трейт Tappable в Laravel](https://laravel.demiart.ru/trait-tappable-laravel/)
++ [Когда нужно использовать Gate::after в Laravel](https://laravel.demiart.ru/gate-after-laravel/)
++ [Руководство по использованию сокетов в Laravel](https://laravel.demiart.ru/sockets-laravel-guide/)
++ [40 дополнительных правил валидации в Laravel](https://laravel.demiart.ru/additional-validation-rules/)
 
 ## Eloquent
 + [10 скрытых фишек Laravel Eloquent](https://laravel.demiart.ru/10-skrytyh-fishek-laravel-eloquent/)
 + [20 хитростей при работе с Laravel Eloquent](https://laravel.demiart.ru/20-hitrostej-pri-rabote-s-laravel-eloquent/)
 + [Eloquent и Blade: повышение производительности](https://laravel.demiart.ru/eloquent-i-blade-sovety-po-povysheniyu-proizvoditelnosti/)
 + [Laravel: Одна таблица для всех моделей](https://laravel.demiart.ru/laravel-odna-tablitsa-dlya-vseh-modelej/)
++ [7 хитростей работы с моделями в Laravel](https://laravel.demiart.ru/7-things-laravel-model/)
+
+## Relationships
++ [Отношение «Один-к-Одному» в Laravel Eloquent](https://laravel.demiart.ru/one-to-one-relationship/)
++ [Отношение «Один-ко-Многим» в Laravel Eloquent](https://laravel.demiart.ru/one-to-many-relationship/)
++ [Отношения «Многие-ко-Многим» в Laravel Eloquent](https://laravel.demiart.ru/many-to-many-relationship/)
+
+## Design Patterns
++ [Паттерн «Репозиторий» в Laravel](https://laravel.demiart.ru/repository-design-pattern/)
++ [Паттерн «Декоратор»](https://laravel.demiart.ru/decorator-design-pattern/)
++ [Паттерн «Адаптер» в Laravel](https://laravel.demiart.ru/adapter-design-pattern/)
 
 ## Blade
 + [Создаём свою собственную Blade команду](https://laravel.demiart.ru/sozdayom-svoyu-sobstvennuyu-blade-komandu-na-primere-br2nl-v-laravel/)

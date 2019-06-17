@@ -24,6 +24,13 @@
 + [Когда нужно использовать Gate::after в Laravel](https://laravel.demiart.ru/gate-after-laravel/)
 + [Руководство по использованию сокетов в Laravel](https://laravel.demiart.ru/sockets-laravel-guide/)
 + [40 дополнительных правил валидации в Laravel](https://laravel.demiart.ru/additional-validation-rules/)
++ [Транзакции в Laravel](https://laravel.demiart.ru/transactions/)
++ [Полезные советы и лучшие практики для Laravel](https://laravel.demiart.ru/best-practices/)
++ [Автоматические Фасады в Laravel](https://laravel.demiart.ru/automatic-facades/)
++ [Рефакторинг в Actions](https://laravel.demiart.ru/refactoring-to-actions/)
++ [Советы по Laravel. Часть 1.](https://laravel.demiart.ru/tips-1/)
++ [Советы по Laravel. Часть 2.](https://laravel.demiart.ru/tips-2/)
++ [Советы по Laravel. Часть 3.](https://laravel.demiart.ru/tips-3/)
 
 ## Eloquent
 + [10 скрытых фишек Laravel Eloquent](https://laravel.demiart.ru/10-skrytyh-fishek-laravel-eloquent/)
@@ -41,6 +48,7 @@
 + [Паттерн «Репозиторий» в Laravel](https://laravel.demiart.ru/repository-design-pattern/)
 + [Паттерн «Декоратор»](https://laravel.demiart.ru/decorator-design-pattern/)
 + [Паттерн «Адаптер» в Laravel](https://laravel.demiart.ru/adapter-design-pattern/)
++ [Паттерн «Сервисный слой» в Laravel](https://laravel.demiart.ru/service-layer-design-pattern/)
 
 ## Blade
 + [Создаём свою собственную Blade команду](https://laravel.demiart.ru/sozdayom-svoyu-sobstvennuyu-blade-komandu-na-primere-br2nl-v-laravel/)

@@ -31,6 +31,7 @@
 + [Советы по Laravel. Часть 1.](https://laravel.demiart.ru/tips-1/)
 + [Советы по Laravel. Часть 2.](https://laravel.demiart.ru/tips-2/)
 + [Советы по Laravel. Часть 3.](https://laravel.demiart.ru/tips-3/)
++ [Макросы в Laravel](https://laravel.demiart.ru/macros/)
 
 ## Eloquent
 + [10 скрытых фишек Laravel Eloquent](https://laravel.demiart.ru/10-skrytyh-fishek-laravel-eloquent/)
@@ -57,6 +58,9 @@
 ## Routes
 + [Laravel. Фильтры маршрутов с регулярками](https://laravel.demiart.ru/laravel-filtry-marshrutov-s-regulyarnymi-vyrazheniyami/)
 + [Резервный маршрут в Laravel](https://laravel.demiart.ru/rezervnyj-marshrut-v-laravel/)
++ [Мультиязычные маршруты и Локали с Аутентификацией](https://laravel.demiart.ru/multi-language-routes-and-locales-with-auth/)
++ [Подстановочные (wildcard) субдомены в маршрутах: каждому пользователю по субдомену](https://laravel.demiart.ru/wildcard-subdomain-for-every-user/)
++ [Структурирование маршрутов в крупных проектах на Laravel](https://laravel.demiart.ru/structure-routes-in-large-projects/)
 
 ## Производительность
 + [Оптимизация производительности Laravel](https://laravel.demiart.ru/performance-optimization-laravel/)

@@ -32,6 +32,11 @@
 + [Советы по Laravel. Часть 2.](https://laravel.demiart.ru/tips-2/)
 + [Советы по Laravel. Часть 3.](https://laravel.demiart.ru/tips-3/)
 + [Макросы в Laravel](https://laravel.demiart.ru/macros/)
++ [Отправка почты через Gmail SMTP](https://laravel.demiart.ru/send-email-using-gmail-smtp-server/)
++ [Обновляем версию Bootstrap в Laravel](https://laravel.demiart.ru/upgrade-the-bootstrap-version-in-laravel/)
++ [Формы входа и регистрации на одной странице](https://laravel.demiart.ru/login-and-register-forms-on-the-same-page/)
++ [Создание шифрованных бэкапов](https://laravel.demiart.ru/creating-encrypted-backups/)
++ [Создание REST API с аутентификацией](https://laravel.demiart.ru/create-rest-api-with-authentication/)
 
 ## Eloquent
 + [10 скрытых фишек Laravel Eloquent](https://laravel.demiart.ru/10-skrytyh-fishek-laravel-eloquent/)
@@ -61,6 +66,7 @@
 + [Мультиязычные маршруты и Локали с Аутентификацией](https://laravel.demiart.ru/multi-language-routes-and-locales-with-auth/)
 + [Подстановочные (wildcard) субдомены в маршрутах: каждому пользователю по субдомену](https://laravel.demiart.ru/wildcard-subdomain-for-every-user/)
 + [Структурирование маршрутов в крупных проектах на Laravel](https://laravel.demiart.ru/structure-routes-in-large-projects/)
++ [Определение активных ссылок в меню](https://laravel.demiart.ru/detecting-active-links-in-menu/)
 
 ## Производительность
 + [Оптимизация производительности Laravel](https://laravel.demiart.ru/performance-optimization-laravel/)

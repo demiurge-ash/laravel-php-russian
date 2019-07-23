@@ -37,6 +37,11 @@
 + [Формы входа и регистрации на одной странице](https://laravel.demiart.ru/login-and-register-forms-on-the-same-page/)
 + [Создание шифрованных бэкапов](https://laravel.demiart.ru/creating-encrypted-backups/)
 + [Создание REST API с аутентификацией](https://laravel.demiart.ru/create-rest-api-with-authentication/)
++ [10 полезных методов Коллекций Laravel](https://laravel.demiart.ru/10-helpful-methods-laravel-collections/)
++ [Настройка десктопных push-уведомлений](https://laravel.demiart.ru/laravel-desktop-push-notifications/)
++ [Настраиваем Laravel в контейнере Docker](https://laravel.demiart.ru/setup-laravel-in-docker-container/)
++ [Как добавить Webmentions в блог на Laravel](https://laravel.demiart.ru/webmentions-for-laravel-blog/)
++ [Laravel и закон Мерфи. Очереди, задачи и ошибки](https://laravel.demiart.ru/murphys-law-queues-jobs-errors/)
 
 ## Eloquent
 + [10 скрытых фишек Laravel Eloquent](https://laravel.demiart.ru/10-skrytyh-fishek-laravel-eloquent/)
@@ -71,3 +76,9 @@
 ## Производительность
 + [Оптимизация производительности Laravel](https://laravel.demiart.ru/performance-optimization-laravel/)
 + [Кэширование ответов в Laravel](https://laravel.demiart.ru/caching-response-laravel/)
+
+## Пакеты
++ [Загрузка аватарки при помощи Spatie Media Library](https://laravel.demiart.ru/uploading-avatar-images/)
+
+## Админ-панели
++ [Создаём своё Действие для Laravel Voyager](https://laravel.demiart.ru/create-custom-action-for-laravel-voyager/)

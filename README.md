@@ -42,6 +42,10 @@
 + [Настраиваем Laravel в контейнере Docker](https://laravel.demiart.ru/setup-laravel-in-docker-container/)
 + [Как добавить Webmentions в блог на Laravel](https://laravel.demiart.ru/webmentions-for-laravel-blog/)
 + [Laravel и закон Мерфи. Очереди, задачи и ошибки](https://laravel.demiart.ru/murphys-law-queues-jobs-errors/)
++ [Настройка формата дат](https://laravel.demiart.ru/config-date-format/)
++ [Сервис-контейнер: 4 способа управления зависимостями](https://laravel.demiart.ru/4-ways-service-container-managing-dependencies/)
++ [Почему фреймворк называется Laravel](https://laravel.demiart.ru/why-is-called-laravel/)
++ [Двухэтапная регистрация Laravel: Дополнительные поля для страны и биографии](https://laravel.demiart.ru/register-with-two-steps-optional-fields/)
 
 ## Eloquent
 + [10 скрытых фишек Laravel Eloquent](https://laravel.demiart.ru/10-skrytyh-fishek-laravel-eloquent/)
@@ -50,10 +54,13 @@
 + [Laravel: Одна таблица для всех моделей](https://laravel.demiart.ru/laravel-odna-tablitsa-dlya-vseh-modelej/)
 + [7 хитростей работы с моделями в Laravel](https://laravel.demiart.ru/7-things-laravel-model/)
 
+
 ## Relationships
 + [Отношение «Один-к-Одному» в Laravel Eloquent](https://laravel.demiart.ru/one-to-one-relationship/)
 + [Отношение «Один-ко-Многим» в Laravel Eloquent](https://laravel.demiart.ru/one-to-many-relationship/)
 + [Отношения «Многие-ко-Многим» в Laravel Eloquent](https://laravel.demiart.ru/many-to-many-relationship/)
++ [Категории бесконечной вложенности при помощи рекурсивных отношений hasMany](https://laravel.demiart.ru/recursive-hasmany-relationship-with-unlimited-subcategories/)
++ [Как получить новые/старые записи из сводной таблицы в BelongsToMany](https://laravel.demiart.ru/get-newest-oldest-records-from-pivot-table-in-belongstomany/)
 
 ## Design Patterns
 + [Паттерн «Репозиторий» в Laravel](https://laravel.demiart.ru/repository-design-pattern/)

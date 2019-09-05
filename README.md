@@ -46,6 +46,14 @@
 + [Сервис-контейнер: 4 способа управления зависимостями](https://laravel.demiart.ru/4-ways-service-container-managing-dependencies/)
 + [Почему фреймворк называется Laravel](https://laravel.demiart.ru/why-is-called-laravel/)
 + [Двухэтапная регистрация Laravel: Дополнительные поля для страны и биографии](https://laravel.demiart.ru/register-with-two-steps-optional-fields/)
++ [Laravel vs Lumen — Что использовать?](https://laravel.demiart.ru/laravel-vs-lumen-what-to-use/)
++ [Laravel 6 — Что нового?](https://laravel.demiart.ru/laravel-6-whats-new/)
++ [Локализация в Ларавел](https://laravel.demiart.ru/category/articles/)
++ [Загрузка и парсинг CSV в Ларавел](https://laravel.demiart.ru/upload-and-parse-csv-in-laravel/)
++ [MySQL 8. Поиск по полигональным картам](https://laravel.demiart.ru/mysql-8-polygonal-map-search/)
++ [Соглашения об именах в Laravel](https://laravel.demiart.ru/laravel-naming-conventions/)
++ [Проверка форм с одинаковыми именами полей на одной странице](https://laravel.demiart.ru/validating-forms-with-same-input-names-on-one-page/)
+
 
 ## Eloquent
 + [10 скрытых фишек Laravel Eloquent](https://laravel.demiart.ru/10-skrytyh-fishek-laravel-eloquent/)
@@ -86,6 +94,7 @@
 
 ## Пакеты
 + [Загрузка аватарки при помощи Spatie Media Library](https://laravel.demiart.ru/uploading-avatar-images/)
++ [Ignition: Новая страница ошибок для Ларавел](https://laravel.demiart.ru/ignition-new-error-page-for-laravel/)
 
 ## Админ-панели
 + [Создаём своё Действие для Laravel Voyager](https://laravel.demiart.ru/create-custom-action-for-laravel-voyager/)

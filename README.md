@@ -53,6 +53,8 @@
 + [MySQL 8. Поиск по полигональным картам](https://laravel.demiart.ru/mysql-8-polygonal-map-search/)
 + [Соглашения об именах в Laravel](https://laravel.demiart.ru/laravel-naming-conventions/)
 + [Проверка форм с одинаковыми именами полей на одной странице](https://laravel.demiart.ru/validating-forms-with-same-input-names-on-one-page/)
++ [Расчет итоговых значений с использованием условных агрегаций](https://laravel.demiart.ru/calculating-totals-using-conditional-aggregates/)
++ [Пользовательские настройки в приложении](https://laravel.demiart.ru/user-settings-in-laravel/)
 
 
 ## Eloquent
@@ -79,6 +81,7 @@
 ## Blade
 + [Создаём свою собственную Blade команду](https://laravel.demiart.ru/sozdayom-svoyu-sobstvennuyu-blade-komandu-na-primere-br2nl-v-laravel/)
 + [10 недооцененных команд Blade](https://laravel.demiart.ru/10-nedootsenennyh-komand-blade/)
++ [Автономная навигация. Привязываем данные к шаблону и кэшируем.](https://laravel.demiart.ru/bind-data-to-view-and-cache/)
 
 ## Routes
 + [Laravel. Фильтры маршрутов с регулярками](https://laravel.demiart.ru/laravel-filtry-marshrutov-s-regulyarnymi-vyrazheniyami/)
@@ -95,6 +98,8 @@
 ## Пакеты
 + [Загрузка аватарки при помощи Spatie Media Library](https://laravel.demiart.ru/uploading-avatar-images/)
 + [Ignition: Новая страница ошибок для Ларавел](https://laravel.demiart.ru/ignition-new-error-page-for-laravel/)
++ [Настраиваем Elasticsearch в Laravel](https://laravel.demiart.ru/configuring-elasticsearch-in-laravel/)
++ [Livewire и Laravel. Делаем интерактивный поиск.](https://laravel.demiart.ru/livewire-and-laravel-interactive-search/)
 
 ## Админ-панели
 + [Создаём своё Действие для Laravel Voyager](https://laravel.demiart.ru/create-custom-action-for-laravel-voyager/)

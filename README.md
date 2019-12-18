@@ -66,6 +66,8 @@
 + [Laravel: Одна таблица для всех моделей](https://laravel.demiart.ru/laravel-odna-tablitsa-dlya-vseh-modelej/)
 + [7 хитростей работы с моделями в Laravel](https://laravel.demiart.ru/7-things-laravel-model/)
 + [Тайный метод firstOr()](https://laravel.demiart.ru/secret-method-firstor/)
++ [Кастомный конструктор таблиц](https://laravel.demiart.ru/custom-blueprint/)
++ [Рефакторинг eloquent запросов через Сообщения Высшего Порядка](https://laravel.demiart.ru/refactor-eloquent-queries-higher-order-messages/)
 
 
 ## Relationships
@@ -75,6 +77,8 @@
 + [Категории бесконечной вложенности при помощи рекурсивных отношений hasMany](https://laravel.demiart.ru/recursive-hasmany-relationship-with-unlimited-subcategories/)
 + [Как получить новые/старые записи из сводной таблицы в BelongsToMany](https://laravel.demiart.ru/get-newest-oldest-records-from-pivot-table-in-belongstomany/)
 + [Кастомные отношения](https://laravel.demiart.ru/custom-relationship/)
++ [Просто и наглядно об Отношениях в Laravel](https://laravel.demiart.ru/eloquent-relationships-with-drawings/)
+
 
 ## Design Patterns
 + [Паттерн «Репозиторий» в Laravel](https://laravel.demiart.ru/repository-design-pattern/)
@@ -82,11 +86,13 @@
 + [Паттерн «Адаптер» в Laravel](https://laravel.demiart.ru/adapter-design-pattern/)
 + [Паттерн «Сервисный слой» в Laravel](https://laravel.demiart.ru/service-layer-design-pattern/)
 
+
 ## Blade
 + [Создаём свою собственную Blade команду](https://laravel.demiart.ru/sozdayom-svoyu-sobstvennuyu-blade-komandu-na-primere-br2nl-v-laravel/)
 + [10 недооцененных команд Blade](https://laravel.demiart.ru/10-nedootsenennyh-komand-blade/)
 + [Автономная навигация. Привязываем данные к шаблону и кэшируем.](https://laravel.demiart.ru/bind-data-to-view-and-cache/)
 + [Blade: директива для отображения выбранного пункта в списке](https://laravel.demiart.ru/blade-a-directive-for-a-selected-option-of-a-list/)
+
 
 ## Routes
 + [Laravel. Фильтры маршрутов с регулярками](https://laravel.demiart.ru/laravel-filtry-marshrutov-s-regulyarnymi-vyrazheniyami/)
@@ -96,10 +102,16 @@
 + [Структурирование маршрутов в крупных проектах на Laravel](https://laravel.demiart.ru/structure-routes-in-large-projects/)
 + [Определение активных ссылок в меню](https://laravel.demiart.ru/detecting-active-links-in-menu/)
 + [Организация маршрутов в отдельных файлах](https://laravel.demiart.ru/organization-of-routes-in-separate-files/)
++ [Удаляем index.php из URL](https://laravel.demiart.ru/remove-index-php-from-the-url/)
++ [Как удалить public из адреса](https://laravel.demiart.ru/remove-public-from-url/)
+
 
 ## Производительность
 + [Оптимизация производительности Laravel](https://laravel.demiart.ru/performance-optimization-laravel/)
 + [Кэширование ответов в Laravel](https://laravel.demiart.ru/caching-response-laravel/)
++ [Кэширование запросов Eloquent](https://laravel.demiart.ru/cache-eloquent-queries/)
++ [Асинхронное выполнение нескольких процессов](https://laravel.demiart.ru/running-multiple-processes-asynchronously/)
+
 
 ## Пакеты
 + [Загрузка аватарки при помощи Spatie Media Library](https://laravel.demiart.ru/uploading-avatar-images/)
@@ -109,13 +121,17 @@
 + [10 лучших пакетов Laravel для переводов и мультиязычности](https://laravel.demiart.ru/10-best-laravel-packages-for-multi-language-translations/)
 + [Как сделать свой пакет для Laravel за 10 минут](https://laravel.demiart.ru/build-your-own-laravel-package-in-10-minutes/)
 
+
 ## Админ-панели
 + [Создаём своё Действие для Laravel Voyager](https://laravel.demiart.ru/create-custom-action-for-laravel-voyager/)
+
 
 ## Фронтенд
 + [Четыре способа передать данные из Laravel в Vue](https://laravel.demiart.ru/four-ways-to-pass-data-from-laravel-to-vue/)
 + [Сравнение Inertia.js и Livewire](https://laravel.demiart.ru/inertia-vs-livewire/)
 + [PHP на фронтенде](https://laravel.demiart.ru/client-side-php/)
++ [Загрузка изображений с помощью DropzoneJS](https://laravel.demiart.ru/upload-image-using-dropzone-js/)
+
 
 ## Регистрация
 + [Настройка регистрации в Laravel](https://laravel.demiart.ru/laravel-customize-registration/)
@@ -123,16 +139,25 @@
 + [Двухэтапная регистрация Laravel: Дополнительные поля для страны и биографии](https://laravel.demiart.ru/register-with-two-steps-optional-fields/)
 + [Как отправить письмо после регистрации пользователя](https://laravel.demiart.ru/how-to-send-welcome-emails-after-user-registration/)
 + [Двухфакторная аутентификация через почту](https://laravel.demiart.ru/two-factor-email-verification/)
++ [Аутентификация в Laravel 6: Установка и настройка](https://laravel.demiart.ru/laravel-authentication/)
+
 
 ## Создание API
 + [Laravel API 404 ответ: Возвращаем JSON вместо страницы с ошибкой](https://laravel.demiart.ru/laravel-api-404-otvet-vozvrashhaem-json-vmesto-stranitsy-s-oshibkoj/)
 + [Создание REST API с аутентификацией](https://laravel.demiart.ru/create-rest-api-with-authentication/)
 + [GraphQL и Laravel](https://laravel.demiart.ru/graphql-laravel/)
++ [Отключение HTTP сессий для ускорения API](https://laravel.demiart.ru/disable-http-sessions-to-speed-up-api/)
++ [REST API: Лучшие практики](https://laravel.demiart.ru/rest-api-best-practices/)
+
 
 ## Тестирование
 + [Еще один способ тестирования запросов в Laravel](https://laravel.demiart.ru/unit-testing-laravel-form-requests-in-a-different-way/)
++ [Как писать тесты в Laravel](https://laravel.demiart.ru/phpunit-feature-test/)
+
 
 ## Запросы и Ответы
 + [40 дополнительных правил валидации в Laravel](https://laravel.demiart.ru/additional-validation-rules/)
 + [Универсальные объекты ответов](https://laravel.demiart.ru/versatile-response-objects/)
 + [Управление данными запроса перед валидацией](https://laravel.demiart.ru/manipulating-request-data-before-performing-validation/)
++ [Form Requests — больше, чем валидация](https://laravel.demiart.ru/form-requests-more-than-validation/)
+

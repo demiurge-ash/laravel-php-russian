@@ -57,6 +57,8 @@
 + [Возвращаемый тип void в PHP](https://laravel.demiart.ru/void-typehint-in-php/)
 + [Глобальные настройки приложения](https://laravel.demiart.ru/global-application-settings/)
 + [Пишем приложения на Laravel, которые легко поддерживать](https://laravel.demiart.ru/maintainable-laravel-apps/)
++ [Магия Событий, Слушателей и Задач](https://laravel.demiart.ru/magic-of-events-listeners-and-jobs/)
++ [Руководства по Ролям и Правам в Laravel](https://laravel.demiart.ru/guide-to-roles-and-permissions/)
 
 
 ## Eloquent
@@ -68,6 +70,7 @@
 + [Тайный метод firstOr()](https://laravel.demiart.ru/secret-method-firstor/)
 + [Кастомный конструктор таблиц](https://laravel.demiart.ru/custom-blueprint/)
 + [Рефакторинг eloquent запросов через Сообщения Высшего Порядка](https://laravel.demiart.ru/refactor-eloquent-queries-higher-order-messages/)
++ [Загрузка и инициализация Моделей с Трейтами](https://laravel.demiart.ru/booting-and-initializing-models-with-traits/)
 
 
 ## Relationships
@@ -111,6 +114,7 @@
 + [Кэширование ответов в Laravel](https://laravel.demiart.ru/caching-response-laravel/)
 + [Кэширование запросов Eloquent](https://laravel.demiart.ru/cache-eloquent-queries/)
 + [Асинхронное выполнение нескольких процессов](https://laravel.demiart.ru/running-multiple-processes-asynchronously/)
++ [Оптимизирование запросов в периметре приложений](https://laravel.demiart.ru/optimize-database-queries-in-the-perimeter-of-apps/)
 
 
 ## Пакеты
@@ -120,6 +124,7 @@
 + [Livewire и Laravel. Делаем интерактивный поиск.](https://laravel.demiart.ru/livewire-and-laravel-interactive-search/)
 + [10 лучших пакетов Laravel для переводов и мультиязычности](https://laravel.demiart.ru/10-best-laravel-packages-for-multi-language-translations/)
 + [Как сделать свой пакет для Laravel за 10 минут](https://laravel.demiart.ru/build-your-own-laravel-package-in-10-minutes/)
++ [Кэширование запроса всего одним методом](https://laravel.demiart.ru/laravel-caching-your-query-with-only-one-method/)
 
 
 ## Админ-панели
@@ -148,6 +153,7 @@
 + [GraphQL и Laravel](https://laravel.demiart.ru/graphql-laravel/)
 + [Отключение HTTP сессий для ускорения API](https://laravel.demiart.ru/disable-http-sessions-to-speed-up-api/)
 + [REST API: Лучшие практики](https://laravel.demiart.ru/rest-api-best-practices/)
++ [Аутентификация OAuth2 в проектах Laravel](https://laravel.demiart.ru/oauth2-authentication-across-laravel-projects/)
 
 
 ## Тестирование

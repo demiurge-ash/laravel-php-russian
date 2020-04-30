@@ -59,6 +59,20 @@
 + [Пишем приложения на Laravel, которые легко поддерживать](https://laravel.demiart.ru/maintainable-laravel-apps/)
 + [Магия Событий, Слушателей и Задач](https://laravel.demiart.ru/magic-of-events-listeners-and-jobs/)
 + [Руководства по Ролям и Правам в Laravel](https://laravel.demiart.ru/guide-to-roles-and-permissions/)
++ [Редирект на HTTPS через мидлвар](https://laravel.demiart.ru/redirect-to-https-using-middleware/)
++ [8 трюков с метками времени](https://laravel.demiart.ru/8-tricks-with-laravel-timestamps/)
++ [Сессии в Laravel](https://laravel.demiart.ru/laravel-sessions/)
++ [Скрытый класс Manager](https://laravel.demiart.ru/hidden-manager-class/)
++ [Laravel Уведомления](https://laravel.demiart.ru/laravel-notifications/)
++ [Лучший способ реализации Слушателя и События](https://laravel.demiart.ru/luchshij-sposob-realizatsii-slushatelya-i-sobytiya/)
++ [Использование трейтов в Laravel](https://laravel.demiart.ru/using-traits-in-laravel/)
++ [Руководство по Очередям и Задачам. Часть 1: Создаем простое аналитическое приложение](https://laravel.demiart.ru/jobs-and-queues-part-1-analytic-app/)
++ [Руководство по Очередям и Задачам. Часть 2: Подключения и настройки](https://laravel.demiart.ru/jobs-and-queues-part-2-connections-and-settings/)
++ [Руководство по Очередям и Задачам. Часть 3: Как запустить воркеры на продакшн-сервере](https://laravel.demiart.ru/jobs-and-queues-part-3-workers-in-production/)
++ [Рефакторинг: Сервисы, Статические Методы и Внедрение Зависимостей](https://laravel.demiart.ru/refactoring-services-static-methods-and-dependency-injection/)
++ [Laravel 7 — Что нового?](https://laravel.demiart.ru/laravel-7-whats-new/)
++ [Использование кастомных кастов в Laravel 7](https://laravel.demiart.ru/custom-casts/)
++ [Рефакторинг тестов](https://laravel.demiart.ru/test-refactoring/)
 
 
 ## Eloquent
@@ -71,6 +85,7 @@
 + [Кастомный конструктор таблиц](https://laravel.demiart.ru/custom-blueprint/)
 + [Рефакторинг eloquent запросов через Сообщения Высшего Порядка](https://laravel.demiart.ru/refactor-eloquent-queries-higher-order-messages/)
 + [Загрузка и инициализация Моделей с Трейтами](https://laravel.demiart.ru/booting-and-initializing-models-with-traits/)
++ [5 способов использования «сырых» запросов к базе данных](https://laravel.demiart.ru/5-ways-to-use-raw-database-queries/)
 
 
 ## Relationships
@@ -81,6 +96,7 @@
 + [Как получить новые/старые записи из сводной таблицы в BelongsToMany](https://laravel.demiart.ru/get-newest-oldest-records-from-pivot-table-in-belongstomany/)
 + [Кастомные отношения](https://laravel.demiart.ru/custom-relationship/)
 + [Просто и наглядно об Отношениях в Laravel](https://laravel.demiart.ru/eloquent-relationships-with-drawings/)
++ [Динамические отношения с использованием подзапросов](https://laravel.demiart.ru/dynamic-relationships-using-subqueries/)
 
 
 ## Design Patterns
@@ -93,8 +109,10 @@
 ## Blade
 + [Создаём свою собственную Blade команду](https://laravel.demiart.ru/sozdayom-svoyu-sobstvennuyu-blade-komandu-na-primere-br2nl-v-laravel/)
 + [10 недооцененных команд Blade](https://laravel.demiart.ru/10-nedootsenennyh-komand-blade/)
-+ [Автономная навигация. Привязываем данные к шаблону и кэшируем.](https://laravel.demiart.ru/bind-data-to-view-and-cache/)
++ [Автономная навигация. Привязываем данные к шаблону и кэшируем](https://laravel.demiart.ru/bind-data-to-view-and-cache/)
 + [Blade: директива для отображения выбранного пункта в списке](https://laravel.demiart.ru/blade-a-directive-for-a-selected-option-of-a-list/)
++ [Организация ваших шаблонов](https://laravel.demiart.ru/organizing-of-your-views/)
++ [Blade компоненты в Laravel 7](https://laravel.demiart.ru/blade-komponenty-v-laravel-7/)
 
 
 ## Routes
@@ -107,6 +125,7 @@
 + [Организация маршрутов в отдельных файлах](https://laravel.demiart.ru/organization-of-routes-in-separate-files/)
 + [Удаляем index.php из URL](https://laravel.demiart.ru/remove-index-php-from-the-url/)
 + [Как удалить public из адреса](https://laravel.demiart.ru/remove-public-from-url/)
++ [Продвинутые советы по Маршрутизации в Laravel](https://laravel.demiart.ru/routing-advanced-tips/)
 
 
 ## Производительность
@@ -115,6 +134,7 @@
 + [Кэширование запросов Eloquent](https://laravel.demiart.ru/cache-eloquent-queries/)
 + [Асинхронное выполнение нескольких процессов](https://laravel.demiart.ru/running-multiple-processes-asynchronously/)
 + [Оптимизирование запросов в периметре приложений](https://laravel.demiart.ru/optimize-database-queries-in-the-perimeter-of-apps/)
++ [Файловый кеш на стероидах](https://laravel.demiart.ru/file-driven-cache-on-steroids/)
 
 
 ## Пакеты
@@ -125,6 +145,12 @@
 + [10 лучших пакетов Laravel для переводов и мультиязычности](https://laravel.demiart.ru/10-best-laravel-packages-for-multi-language-translations/)
 + [Как сделать свой пакет для Laravel за 10 минут](https://laravel.demiart.ru/build-your-own-laravel-package-in-10-minutes/)
 + [Кэширование запроса всего одним методом](https://laravel.demiart.ru/laravel-caching-your-query-with-only-one-method/)
++ [Генерация изображений из HTML кода](https://laravel.demiart.ru/generating-images-from-html/)
++ [Заголовки Server-Timing](https://laravel.demiart.ru/server-timing-headers/)
++ [Обнаружение медленных SQL-запросов](https://laravel.demiart.ru/detection-of-slow-queries/)
++ [Создание SPA CRUD на Laravel Inertia](https://laravel.demiart.ru/laravel-inertia-js-crud/)
++ [Как сделать свой пакет для Laravel](https://laravel.demiart.ru/package-development/)
++ [Как воскресить брошеный Github-проект](https://laravel.demiart.ru/how-to-fork-and-maintain-github-package/)
 
 
 ## Админ-панели
@@ -136,6 +162,7 @@
 + [Сравнение Inertia.js и Livewire](https://laravel.demiart.ru/inertia-vs-livewire/)
 + [PHP на фронтенде](https://laravel.demiart.ru/client-side-php/)
 + [Загрузка изображений с помощью DropzoneJS](https://laravel.demiart.ru/upload-image-using-dropzone-js/)
++ [Tailwind и Laravel](https://laravel.demiart.ru/tailwind-and-laravel/)
 
 
 ## Регистрация
@@ -154,6 +181,8 @@
 + [Отключение HTTP сессий для ускорения API](https://laravel.demiart.ru/disable-http-sessions-to-speed-up-api/)
 + [REST API: Лучшие практики](https://laravel.demiart.ru/rest-api-best-practices/)
 + [Аутентификация OAuth2 в проектах Laravel](https://laravel.demiart.ru/oauth2-authentication-across-laravel-projects/)
++ [Аутентификация через Laravel Airlock](https://laravel.demiart.ru/authentication-with-laravel-airlock/)
++ [SPA CRUD на Laravel и Vue](https://laravel.demiart.ru/crud-spa-laravel-vue/)
 
 
 ## Тестирование
@@ -166,4 +195,7 @@
 + [Универсальные объекты ответов](https://laravel.demiart.ru/versatile-response-objects/)
 + [Управление данными запроса перед валидацией](https://laravel.demiart.ru/manipulating-request-data-before-performing-validation/)
 + [Form Requests — больше, чем валидация](https://laravel.demiart.ru/form-requests-more-than-validation/)
++ [Добавление данных в текущий запрос](https://laravel.demiart.ru/adding-data-in-request/)
++ [Способы валидации данных](https://laravel.demiart.ru/ways-of-laravel-validation/)
++ [Всё о валидации в Laravel](https://laravel.demiart.ru/laravel-validation-controllers-form-requests-and-rules/)
 

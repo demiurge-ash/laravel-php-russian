@@ -72,7 +72,6 @@
 + [Рефакторинг: Сервисы, Статические Методы и Внедрение Зависимостей](https://laravel.demiart.ru/refactoring-services-static-methods-and-dependency-injection/)
 + [Laravel 7 — Что нового?](https://laravel.demiart.ru/laravel-7-whats-new/)
 + [Использование кастомных кастов в Laravel 7](https://laravel.demiart.ru/custom-casts/)
-+ [Рефакторинг тестов](https://laravel.demiart.ru/test-refactoring/)
 
 
 ## Eloquent
@@ -188,6 +187,7 @@
 ## Тестирование
 + [Еще один способ тестирования запросов в Laravel](https://laravel.demiart.ru/unit-testing-laravel-form-requests-in-a-different-way/)
 + [Как писать тесты в Laravel](https://laravel.demiart.ru/phpunit-feature-test/)
++ [Рефакторинг тестов](https://laravel.demiart.ru/test-refactoring/)
 
 
 ## Запросы и Ответы
